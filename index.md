@@ -1,11 +1,27 @@
 ---
 layout: default
 ---
+<a href="./irinaik.html">
+  <img src="irinaLogo.png" 
+       alt="IrinaIK" 
+       width="200"
+       height="200"/>
+</a>
 
+<a href="./irinaik.html">
+  <img src="irinaLogo.png" 
+       alt="IrinaIK" 
+       width="200"
+       height="200"/>
+</a>
 
-[![IrinaIK](irinaLogo.png =200x200)](./irinaik.html).
+<a href="https://twitter.com/Swampertor">
+  <img src="irinaLogo.png" 
+       alt="IrinaIK" 
+       width="200" 
+       height="200"/>
+</a>
 
-[![Twitter](twitterLogo.png = 200x200 )(https://twitter.com/Swampertor).
 
 About:
 Marco Millán
