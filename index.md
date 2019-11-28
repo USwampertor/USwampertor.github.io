@@ -2,9 +2,9 @@
 layout: default
 ---
 <p float="left">
-  <a href="./irinaik.html">
+  <a href="./about.html">
     <img src="swampertor.png" 
-        alt="IrinaIK" 
+        alt="about" 
         width="100"
         height="100"/>
   </a>
@@ -15,11 +15,9 @@ layout: default
         height="100"/>
   </a>
   <a href="https://twitter.com/Swampertor">
-    <img src="irinaLogo.png" 
-        alt="IrinaIK" 
+    <img src="twitter.png" 
+        alt="Twitter" 
         width="100" 
         height="100"/>
   </a>
 </p>
-
-Marco Millán
