@@ -3,7 +3,9 @@ layout: default
 ---
 
 
-[![IrinaIK](irinaLogo.png)](./irinaik.html).
+[![IrinaIK](irinaLogo.png =200x200)](./irinaik.html).
+
+[![Twitter](twitterLogo.png = 200x200 )(https://twitter.com/Swampertor).
 
 About:
 Marco Millán
