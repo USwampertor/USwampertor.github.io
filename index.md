@@ -1,30 +1,6 @@
 ---
 layout: default
 ---
-<a href="./irinaik.html">
-  <img src="irinaLogo.png" 
-       alt="IrinaIK" 
-       width="200"
-       height="200"/>
-</a>
+| <a href="./irinaik.html"> <img src="irinaLogo.png" alt="IrinaIK" width="200" height="200"/> </a> | <a href="./irinaik.html"> <img src="irinaLogo.png" alt="IrinaIK" width="200" height="200"/> </a> | <a href="https://twitter.com/Swampertor"> <img src="irinaLogo.png" alt="IrinaIK" width="200" height="200"/> </a> |
 
-<a href="./irinaik.html">
-  <img src="irinaLogo.png" 
-       alt="IrinaIK" 
-       width="200"
-       height="200"/>
-</a>
-
-<a href="https://twitter.com/Swampertor">
-  <img src="irinaLogo.png" 
-       alt="IrinaIK" 
-       width="200" 
-       height="200"/>
-</a>
-
-
-About:
-Marco Millán
-Game Developer student 
-22 years
 
